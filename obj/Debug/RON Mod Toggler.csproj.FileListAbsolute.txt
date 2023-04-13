@@ -1,0 +1,14 @@
+C:\.other_code\RON Mod Toggler\bin\Debug\RON Mod Toggler.exe.config
+C:\.other_code\RON Mod Toggler\bin\Debug\RON Mod Toggler.exe
+C:\.other_code\RON Mod Toggler\bin\Debug\RON Mod Toggler.pdb
+C:\.other_code\RON Mod Toggler\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\.other_code\RON Mod Toggler\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\.other_code\RON Mod Toggler\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\.other_code\RON Mod Toggler\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\.other_code\RON Mod Toggler\obj\Debug\RON Mod Toggler.csproj.AssemblyReference.cache
+C:\.other_code\RON Mod Toggler\obj\Debug\RON Mod Toggler.csproj.CoreCompileInputs.cache
+C:\.other_code\RON Mod Toggler\obj\Debug\RON Mod Toggler.csproj.CopyComplete
+C:\.other_code\RON Mod Toggler\obj\Debug\RON Mod Toggler.exe
+C:\.other_code\RON Mod Toggler\obj\Debug\RON Mod Toggler.pdb
+C:\.other_code\RON Mod Toggler\bin\Debug\Newtonsoft.Json.dll
+C:\.other_code\RON Mod Toggler\bin\Debug\Newtonsoft.Json.xml
